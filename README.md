@@ -34,5 +34,4 @@ O "Calculador MDC" é uma aplicação que permite calcular o Máximo Divisor Com
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
 
